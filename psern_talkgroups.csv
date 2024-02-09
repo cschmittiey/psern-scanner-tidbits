@@ -2,23 +2,23 @@ Decimal,Hex,Mode,Alpha Tag,Description,Tag,Category
 2307,903,T,Alg PD Admin,Police Administration,Law Tac,Algona-Pacific
 2303,8ff,T,Alg PD Tac 1,Police Tactical 1,Law Tac,Algona-Pacific
 2305,901,T,Alg PD Tac 2,Police Tactical 2,Law Tac,Algona-Pacific
-2313,909,T,Abur PD Admin,Police Administration,Law Tac,Auburn
+2313,909,T,Aubur PD Admin,Police Administration,Law Tac,Auburn
 2309,905,T,Aubur PD Pri,Police Primary,Law Dispatch,Auburn
 2311,907,T,Aubur PD Tac,Police Tactical,Law Tac,Auburn
-1329,531,T,BPD Train,Police - Training,Law Talk,Bellevue
+1329,531,T,Bell PD Trn,Police - Training,Law Talk,Bellevue
 1307,51b,T,Bell CityW1,Citywide 1,Interop,Bellevue
 1287,507,T,Bell ECS,Electronics Communications Service,Public Works,Bellevue
 1281,501,T,Bell PW Code,Works - CODE,Public Works,Bellevue
 1285,505,T,Bell PW Srvy,Works - Survey Crews,Public Works,Bellevue
-1111,457,T,Bell SchComn,School - Common,Schools,Bellevue
+1111,457,T,Bell Sch Comn,School - Common,Schools,Bellevue
 1275,4fb,T,Bell St Dsp,Streets - Dispatch,Public Works,Bellevue
 1273,4f9,T,Bell Streets,Streets,Public Works,Bellevue
 1289,509,T,Bell Trans,Transportation,Transportation,Bellevue
 1277,4fd,T,Bell Wtr Dsp,Water - Dispatch,Public Works,Bellevue
 1263,4ef,T,Bot PD Disp,Police Dispatch,Law Dispatch,Bothell
-1261,4ed,T,Bot Pd Tac,Police Tactical,Law Tac,Bothell
-1113,459,T,BotPd Invest,Police - Investigations,Law Talk,Bothell
-1115,45b,T,BotPd Rec,Police - Records,Law Talk,Bothell
+1261,4ed,T,Bot PD Tac,Police Tactical,Law Tac,Bothell
+1113,459,T,Bot PD Invest,Police - Investigations,Law Talk,Bothell
+1115,45b,T,Bot PD Rec,Police - Records,Law Talk,Bothell
 3857,f11,T,PS BlodCntrs,Puget Sound Blood Centers,Business,Businesses
 2319,90f,T,Des PD Admin,Police Administration,Law Talk,Des Moines
 2315,90b,T,Des PD Pri,Police Primary,Law Dispatch,Des Moines
@@ -326,9 +326,9 @@ Decimal,Hex,Mode,Alpha Tag,Description,Tag,Category
 2337,921,T,Tuk PD Admin,Police Administration,Law Tac,Tukwila
 2333,91d,T,Tuk PD Pri,Police Primary,Law Dispatch,Tukwila
 2335,91f,T,Tuk PD Tac,Police Tactical,Law Tac,Tukwila
-581,245,T,UW PD Admin,Administration,Law Talk,University Of Washington
-579,243,T,Univ WA PD tac,Police Tactical,Law Tac,University Of Washington
-577,241,T,Univ WA PD1,Police 1,Law Dispatch,University Of Washington
+581,245,T,UW PD Admin,University of Washington Police Administration,Law Talk,University Of Washington
+579,243,T,UW PD Tac,Univeristy of Washington Police Tactical,Law Tac,University Of Washington
+577,241,T,UW PD 1,University of Washington Police 1,Law Dispatch,University Of Washington
 3919,f4f,T,Emer Z3,Fire Zone 3 Emergency Button Talkgroup,Fire-Tac,Valley Communications
 2413,96d,D,Fire 9,Fire 9,Fire-Tac,Valley Communications
 2415,96f,D,Fire Trn Ops,Fire Training OPS,Fire-Tac,Valley Communications
